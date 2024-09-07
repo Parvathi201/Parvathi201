@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvathi201&label=Profile%20views&color=0e75b6&style=flat" alt="parvathi201" /> </p>
 
-- 🌱 I’m currently learning **Python Pandas**
+- 🌱 I’m currently learning **DSA in Java**
 
-- 📫 How to reach me **parvathipradeep2005@gmail.com**
+- 📫 How to reach me **parvathipradeep201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
