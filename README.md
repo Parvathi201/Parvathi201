@@ -83,6 +83,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github.com/Parvathi201/Parvathi201/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=parvathi201&icon=0&color=0)](https://visitcount.itsvg.in)
